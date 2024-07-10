@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="87" height="98.041" viewBox="0 0 87 98.041">
+  <g id="Group_44" data-name="Group 44" transform="translate(-287.5 -516.959)">
+    <g id="Group_41" data-name="Group 41" transform="translate(29)">
+      <g id="Group_11" data-name="Group 11" transform="translate(-420.815 131.467)">
+        <g id="Group_9" data-name="Group 9" transform="translate(679.681 385.492)">
+          <g id="balance-law-svgrepo-com" transform="translate(0 0)">
+            <path id="Path_1" data-name="Path 1" d="M117.246,110.027l-13.655-25.39H44.781l-13.655,25.39,5.287,2.843L46.575,93.975l10.162,18.895,5.287-2.843L51.6,90.639H96.776L86.349,110.027l5.287,2.843L101.8,93.975l10.162,18.895Z" transform="translate(-31.126 -68.43)" fill="#fbb500"/>
+            <path id="Path_2" data-name="Path 2" d="M234.235,0a5.4,5.4,0,0,0-5.4,5.4V92.838h10.8V5.4A5.4,5.4,0,0,0,234.235,0Z" transform="translate(-190.975 0)" fill="#ffce47"/>
+            <path id="Path_3" data-name="Path 3" d="M234.235,0h0a5.4,5.4,0,0,0-5.4,5.4V92.838h5.4Z" transform="translate(-190.975)" fill="#ffe29e"/>
+            <path id="Path_4" data-name="Path 4" d="M128.257,418.937h49.322v-7.913a7.693,7.693,0,0,0-7.693-7.693H135.951a7.693,7.693,0,0,0-7.693,7.693v7.913Z" transform="translate(-109.658 -326.099)" fill="#fbb500"/>
+            <g id="Group_10" data-name="Group 10" transform="translate(12.499 77.232)">
+              <path id="Path_5" data-name="Path 5" d="M152.919,403.331H135.951a7.693,7.693,0,0,0-7.693,7.693v7.913h24.661V403.331Z" transform="translate(-122.158 -403.331)" fill="#ffce47"/>
+              <rect id="Rectangle_5" data-name="Rectangle 5" width="61.521" height="10.404" transform="translate(0 10.404)" fill="#ffce47"/>
+            </g>
+            <rect id="Rectangle_6" data-name="Rectangle 6" width="30.761" height="10.404" transform="translate(12.499 87.636)" fill="#ffe29e"/>
+          </g>
+        </g>
+        <rect id="Rectangle_7" data-name="Rectangle 7" width="32" height="26" rx="4" transform="translate(734.315 426)" fill="#0f2131"/>
+        <text id="_5" data-name="5" transform="translate(744.315 447)" fill="#fff" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">5</tspan></text>
+        <rect id="Rectangle_26" data-name="Rectangle 26" width="32" height="26" rx="4" transform="translate(679.315 426)" fill="red"/>
+        <text id="_5-2" data-name="5" transform="translate(689.315 447)" fill="#fff" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">5</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

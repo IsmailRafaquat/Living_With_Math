@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="113" height="112" viewBox="0 0 113 112">
+  <g id="Group_34" data-name="Group 34" transform="translate(-849 -814)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="56.5" cy="56" rx="56.5" ry="56" transform="translate(849 814)" fill="#20496d"/>
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="34" height="34" rx="5" transform="translate(871 835)" fill="red"/>
+    <rect id="Rectangle_30" data-name="Rectangle 30" width="34" height="34" rx="5" transform="translate(908 873)"/>
+    <text id="T" transform="translate(880 862)" fill="#0f2131" font-size="27" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">T</tspan></text>
+    <text id="F" transform="translate(918 898)" fill="#fff" font-size="27" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">F</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="88" viewBox="0 0 134 88">
+  <g id="Group_33" data-name="Group 33" transform="translate(-661 -814)">
+    <g id="Group_32" data-name="Group 32">
+      <g id="Group_31" data-name="Group 31" transform="translate(1271 1025)">
+        <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(-610 -211)" fill="#84c5b0" stroke="#707070" stroke-width="1">
+          <rect width="134" height="88" rx="9" stroke="none"/>
+          <rect x="0.5" y="0.5" width="133" height="87" rx="8.5" fill="none"/>
+        </g>
+        <text id="_10_2_" data-name="10 ÷ 2 = " transform="translate(-587 -181)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">10 ÷ 2 = </tspan></text>
+        <text id="_5" data-name=" 5" transform="translate(-517.511 -180.999) rotate(-1)" fill="#042e65" font-size="19" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> 5</tspan></text>
+        <text id="_12_7_" data-name="12 ÷ 7 = " transform="translate(-587 -160)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">12 ÷ 7 = </tspan></text>
+        <text id="_" data-name="?" transform="translate(-512.469 -160.24) rotate(2)" fill="#f01" font-size="21" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+        <text id="_5_8_" data-name=" ÷ 5 = 8 " transform="translate(-568 -136)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> ÷ 5 = 8 </tspan></text>
+        <text id="_2" data-name="?" transform="matrix(1, -0.017, 0.017, 1, -581.564, -133.414)" fill="#f01" font-size="23" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>

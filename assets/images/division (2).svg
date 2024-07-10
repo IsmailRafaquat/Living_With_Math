@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="88" viewBox="0 0 134 88">
+  <g id="Group_32" data-name="Group 32" transform="translate(-661 -814)">
+    <g id="Group_31" data-name="Group 31" transform="translate(1271 1025)">
+      <g id="Rectangle_4" data-name="Rectangle 4" transform="translate(-610 -211)" fill="#84c5b0" stroke="#707070" stroke-width="1">
+        <rect width="134" height="88" rx="9" stroke="none"/>
+        <rect x="0.5" y="0.5" width="133" height="87" rx="8.5" fill="none"/>
+      </g>
+      <text id="_4_2_" data-name="4 / 2 = " transform="translate(-579 -182)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">4 / 2 = </tspan></text>
+      <text id="_6" data-name="6" transform="translate(-512.267 -180.813) rotate(-2)" fill="#042e65" font-size="19" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">6</tspan></text>
+      <text id="_1_7_" data-name="1 / 7 = " transform="translate(-579 -160)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">1 / 7 = </tspan></text>
+      <text id="_" data-name="?" transform="matrix(1, -0.017, 0.017, 1, -512.202, -156.406)" fill="#f01" font-size="25" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+      <text id="_5_8_" data-name=" / 5 = 8 " transform="translate(-568 -136)" fill="#fff" font-size="18" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0" xml:space="preserve"> / 5 = 8 </tspan></text>
+      <text id="_2" data-name="?" transform="matrix(1, -0.017, 0.017, 1, -578.564, -133.414)" fill="#f01" font-size="23" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">?</tspan></text>
+    </g>
+  </g>
+</svg>

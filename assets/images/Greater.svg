@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="92" viewBox="0 0 96 92">
+  <g id="Group_43" data-name="Group 43" transform="translate(-259 -675)">
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="48" cy="46" rx="48" ry="46" transform="translate(259 675)" fill="#20496d"/>
+    <rect id="Rectangle_27" data-name="Rectangle 27" width="34" height="34" rx="5" transform="translate(270 723)" fill="#d6ff00"/>
+    <rect id="Rectangle_28" data-name="Rectangle 28" width="34" height="34" rx="5" transform="translate(309 723)" fill="#f700ff"/>
+    <rect id="Rectangle_29" data-name="Rectangle 29" width="34" height="34" rx="5" transform="translate(309 683)" fill="red"/>
+    <rect id="Rectangle_30" data-name="Rectangle 30" width="34" height="34" rx="5" transform="translate(270 683)"/>
+    <text id="_2" data-name="2" transform="translate(279 710)" fill="#fff" font-size="27" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+    <text id="_0" data-name="0" transform="translate(319 710)" fill="#fff" font-size="27" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">0</tspan></text>
+    <text id="_8" data-name="8" transform="translate(320 750)" fill="#fff" font-size="27" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">8</tspan></text>
+    <text id="_4" data-name="4" transform="translate(279 749)" fill="#fff" font-size="27" font-family="SegoeUI-Bold, Segoe UI" font-weight="700"><tspan x="0" y="0">4</tspan></text>
+  </g>
+</svg>
